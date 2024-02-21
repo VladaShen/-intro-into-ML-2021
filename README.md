@@ -1,1 +1,1 @@
-Выполненные домашние задания по курсу "Введение в анализ данных" 
+Here one can find completed homeworks for the course "Introduction to Data Analysis" in Python
